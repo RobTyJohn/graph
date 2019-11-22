@@ -74,7 +74,7 @@ Point::Point() {// default constructor definition
 	}
 }
 
-bool Point::runProgram() {// recieves input and calls class functions
+bool Point::runProgram() {// receives input and calls class functions
 
 	string stringX, stringY;// string values for initial input
 
